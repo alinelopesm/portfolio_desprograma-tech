@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code, Menlo, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "files.eol": "\n",
+    "editor.minimap.enabled": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "files.autoGuessEncoding": true
+  }
+  
