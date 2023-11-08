@@ -35,6 +35,8 @@
     }
   },
   "lint-staged": {
-    "src/**/*.{js,jsx,ts,tsx}": ["git-cz"]
+    "src/**/*.{js,jsx,ts,tsx}": [
+      "git-cz"
+    ]
   }
 }
